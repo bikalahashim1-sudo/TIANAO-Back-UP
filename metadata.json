@@ -1,0 +1,6 @@
+{
+  "name": "TIANAO Furniture | Modern Luxury Showroom & Catalogue",
+  "description": "Explore TIANAO Furniture's official modern upholstered collection, including luxury sofas, power motion recliners, designer beds, and accent chairs crafted at Sino-Uganda Mbale Industrial Park.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
